@@ -50,11 +50,6 @@ Every claim in this investigation links to primary institutional sources:
 
 See [SOURCES.md](sources/SOURCES.md) for specific page/table references and [VERIFICATION.md](methodology/VERIFICATION.md) for step-by-step fact-checking instructions.
 
-### Contact
-**Lead Researcher**: 19D Veteran & OSINT Analyst  
-**Verification Standard**: Multi-AI cross-examination (Grok, Claude, Gemini) with primary source tethering  
-**Citation Format**: `Project Chrysanthemum: Japan-China AI Integration Analysis (2015-2025), [specific dataset], [date accessed]`
-
 ### Story Angles
 - **The Quiet Integration**: How foundational dependencies were built during 2019-2023 while attention focused elsewhere
 - **The 2024 Inflection**: What triggered the simultaneous surge across all four vectors
@@ -207,7 +202,12 @@ Primary sources: METI, WIPO, JETRO, MIC, National Diet Library, corporate disclo
 
 ---
 
-## 📞 Feedback & Contact
+### Contact
+**Lead Researcher**: 19D Veteran & OSINT Analyst  
+**Verification Standard**: Multi-AI cross-examination (Grok, Claude, Gemini) with primary source tethering  
+**Citation Format**: `Project Chrysanthemum: Japan-China AI Integration Analysis (2015-2025), [specific dataset], [date accessed]`
+
+## 📞 Feedback
 
 This is an open-source intelligence product. If you:
 - Identify sourcing errors or data discrepancies
