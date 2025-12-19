@@ -26,7 +26,7 @@ Between 2015 and 2025, Japan-China joint AI patents surged **700%**, Chinese nat
 
 The **chrysanthemum** is the Imperial Symbol of Japan, but it originated in China and became the "crown jewel" of Japanese culture. This flower symbolizes **longevity and endurance**—it's the only flower that blooms in the cold of late autumn.
 
-Your research shows that even during the "geopolitical winter" of 2024-2025 (tariffs, tensions, strategic competition), the technical relationship between Japan and China continues to bloom. The name references Ruth Benedict's *The Chrysanthemum and the Sword*, one of the most influential studies of Japanese culture, nodding to the economic and cultural integration side while most analysis focuses on the military/"sword" dimension.
+This research shows that even during the "geopolitical winter" of 2024-2025 (tariffs, tensions, strategic competition), the technical relationship between Japan and China continues to bloom. The name references Ruth Benedict's *The Chrysanthemum and the Sword*, one of the most influential studies of Japanese culture, nodding to the economic and cultural integration side while most analysis focuses on the military/"sword" dimension.
 
 **The Pattern**: Something that started in one country (China's AI capabilities) becoming deeply integrated into another's infrastructure (Japan's technology base)—like the flower itself.
 
@@ -35,9 +35,9 @@ Your research shows that even during the "geopolitical winter" of 2024-2025 (tar
 ## 🎯 For Journalists
 
 ### Most Compelling Evidence
-- **Timeline Dataset**: [MASTER_timeline_2015-2025.csv](data/timelines/) - 390 verified events with sources
-- **Quantitative Metrics**: [2025_combined_influence.csv](data/metrics/) - Current year surge documented
-- **Visualizations**: [Four Vectors Dashboard](visualizations/four_vectors_dashboard.png) - Shows coordinated growth
+- **Timeline Dataset**: [MASTER_timeline_2015-2025.csv](data/MASTER_timeline_2015-2025.csv) - 390 verified events with sources
+- **Quantitative Metrics**: [2025_combined_influence.csv](data/2025_combined_influence.csv) - Current year surge documented
+- **Four Vectors Dashboard**: [visualizations](visuals/) - Shows coordinated growth across patents, capital, talent, and policy
 
 ### How to Verify
 Every claim in this investigation links to primary institutional sources:
@@ -48,7 +48,7 @@ Every claim in this investigation links to primary institutional sources:
 - National Diet Library (policy proceedings)
 - Corporate disclosures (SoftBank, Alibaba, Huawei filings)
 
-See [SOURCES.md](sources/SOURCES.md) for specific page/table references and [VERIFICATION.md](methodology/VERIFICATION.md) for step-by-step fact-checking instructions.
+See [sources.md](docs/sources.md) for specific page/table references and [VERIFICATION.md](docs/VERIFICATION.md) for step-by-step fact-checking instructions.
 
 ### Story Angles
 - **The Quiet Integration**: How foundational dependencies were built during 2019-2023 while attention focused elsewhere
@@ -62,18 +62,24 @@ See [SOURCES.md](sources/SOURCES.md) for specific page/table references and [VER
 ## 📁 Repository Structure
 
 ```
-ai_2015-2025/
-├── README.md (this file)
-├── Report.md (full investigative narrative)
-├── QUOTES.md (pull quotes for articles)
-├── ENTITIES.md (key players reference)
+Project-Chrysanthemum_Japan-China-AI/
+├── README.md                             # Main entry point - "The Pitch"
+├── Report.md                             # Full investigative narrative
 ├── data/
-│   ├── timelines/          # 390 verified events (2015-2025)
-│   ├── metrics/            # Quantitative indicators by year
-│   └── correlations/       # Statistical analysis results
-├── visualizations/         # Charts and graphics
-├── sources/                # Primary source documentation
-└── methodology/            # Verification protocols
+│   ├── MASTER_timeline_2015-2025.csv     # 390 verified events
+│   ├── MASTER_influence_metrics.csv      # Detailed metrics by year/country
+│   ├── 2025_combined_influence.csv       # Current year surge data
+│   └── final_version_CLEANED.csv         # Raw extraction data
+├── docs/
+│   ├── ENTITIES.md                       # Key players reference
+│   ├── QUOTES.md                         # Pull quotes for journalists
+│   ├── VERIFICATION.md                   # Fact-checker guide
+│   └── sources.md                        # Primary source documentation
+└── visuals/
+    ├── entity_timeline.png               # When major players appeared
+    ├── four_vectors_dashboard.png        # Coordinated growth visualization
+    ├── global_ai_investment_vs_patent_mentions.png
+    └── global_ai_investment_vs_patent_events.png
 ```
 
 ---
@@ -105,16 +111,19 @@ These earlier findings raised questions about broader patterns of foreign capita
 ## 📈 Key Visualizations
 
 ### Four Vectors of Integration
-![Four Vectors Dashboard](visualizations/four_vectors_dashboard.png)
-*Coordinated growth across Technical Collaboration (patents), Capital Flows (FDI), Talent Mobility (hiring), and Policy Convergence (Diet mentions) from 2015-2025.*
+![Four Vectors Dashboard](visuals/four_vectors_dashboard.png)
+*Coordinated growth across Technical Collaboration (patents), Capital Flows (FDI), Talent Mobility (hiring), and Policy Convergence (Diet mentions) from 2015-2025. Note the simultaneous surge across all four vectors in 2024-2025.*
 
 ### Entity Timeline
-![Entity Timeline](visualizations/entity_timeline.png)
-*When major players (Huawei, Alibaba, SoftBank, Palantir, Oracle) entered the AI integration landscape and how their activity evolved over time.*
+![Entity Timeline](visuals/entity_timeline.png)
+*When major players (Huawei, Alibaba, SoftBank, Palantir, Oracle) entered the AI integration landscape and how their activity evolved over time. Stars indicate first appearances; colored phases show Foundation (2015-17), Integration (2018-20), Acceleration (2021-23), and Capital Surge (2024-25).*
 
-### Global AI Investment vs Patent Activity
-![Investment vs Patents](visualizations/global_ai_investment_vs_patent_mentions.png)
+### Investment vs Patent Activity
+![Global AI Investment vs Patent Mentions](visuals/global_ai_investment_vs_patent_mentions.png)
 *Shows the lag between patent plateau (2017-2023) and capital surge (2024-2025), suggesting pre-positioned technical dependencies enabled rapid investment deployment.*
+
+![Global AI Investment vs Patent Events](visuals/global_ai_investment_vs_patent_events.png)
+*Alternative view showing relationship between investment flows and patent filing events, highlighting the 2024 inflection point.*
 
 ---
 
@@ -156,7 +165,7 @@ These earlier findings raised questions about broader patterns of foreign capita
 - Corporate: SoftBank Group, Alibaba Cloud, Huawei Japan filings
 - Policy: Japanese Diet proceedings, bilateral agreements archive
 
-See [methodology/VERIFICATION_PROTOCOL.md](methodology/VERIFICATION_PROTOCOL.md) for detailed standards.
+See [VERIFICATION.md](docs/VERIFICATION.md) for detailed standards and independent verification instructions.
 
 ---
 
@@ -164,21 +173,21 @@ See [methodology/VERIFICATION_PROTOCOL.md](methodology/VERIFICATION_PROTOCOL.md)
 
 **For Journalists:**
 1. Start with [Report.md](Report.md) for narrative investigation
-2. Reference [QUOTES.md](QUOTES.md) for pull quotes
-3. Use [VERIFICATION.md](methodology/VERIFICATION.md) for fact-checking
-4. Check [ENTITIES.md](ENTITIES.md) for key player background
+2. Reference [QUOTES.md](docs/QUOTES.md) for pull quotes
+3. Use [VERIFICATION.md](docs/VERIFICATION.md) for fact-checking
+4. Check [ENTITIES.md](docs/ENTITIES.md) for key player background
 
 **For Researchers:**
-1. Review [SOURCES.md](sources/SOURCES.md) for primary source citations
-2. Access raw data in [data/](data/) directories
-3. Examine [methodology/VERIFICATION_PROTOCOL.md](methodology/VERIFICATION_PROTOCOL.md) for standards
-4. Reference [visualizations/](visualizations/) for pattern analysis
+1. Review [sources.md](docs/sources.md) for primary source citations
+2. Access raw data in [data/](data/) directory
+3. Examine [VERIFICATION.md](docs/VERIFICATION.md) for replication standards
+4. Reference [visuals/](visuals/) for pattern analysis
 
 **For Policy Analysts:**
 1. Focus on [Report.md](Report.md) Phase 4 analysis (2024-2025)
-2. Review correlation analysis in [data/correlations/](data/correlations/)
+2. Review correlation patterns in datasets
 3. Cross-reference with Arkansas case study for scale comparison
-4. Examine entity networks in [ENTITIES.md](ENTITIES.md)
+4. Examine entity networks in [ENTITIES.md](docs/ENTITIES.md)
 
 ---
 
@@ -188,8 +197,8 @@ See [methodology/VERIFICATION_PROTOCOL.md](methodology/VERIFICATION_PROTOCOL.md)
 ```
 Project Chrysanthemum: Japan-China AI Integration Analysis (2015-2025)
 Lead Researcher: 19D Veteran & OSINT Analyst
-GitHub: [repository URL]
-Last Updated: [date]
+GitHub: https://github.com/Leerrooy95/Project-Chrysanthemum_Japan-China-AI
+Last Updated: 19 December 2025
 Verification Standard: Multi-AI cross-examination with primary source tethering
 ```
 
@@ -198,16 +207,20 @@ Verification Standard: Multi-AI cross-examination with primary source tethering
 Project Chrysanthemum Timeline Dataset (2015-2025)
 390 verified events across 5 countries
 Primary sources: METI, WIPO, JETRO, MIC, National Diet Library, corporate disclosures
+Access: https://github.com/Leerrooy95/Project-Chrysanthemum_Japan-China-AI/tree/main/data
 ```
 
 ---
 
-### Contact
+## 📞 Contact
+
 **Lead Researcher**: 19D Veteran & OSINT Analyst  
 **Verification Standard**: Multi-AI cross-examination (Grok, Claude, Gemini) with primary source tethering  
 **Citation Format**: `Project Chrysanthemum: Japan-China AI Integration Analysis (2015-2025), [19 December 2025]`
 
-## 📞 Feedback
+---
+
+## 💬 Feedback
 
 This is an open-source intelligence product. If you:
 - Identify sourcing errors or data discrepancies
@@ -215,7 +228,7 @@ This is an open-source intelligence product. If you:
 - Need clarification on methodology or findings
 - Want to discuss journalistic collaboration
 
-Please open an issue in this repository or contact directly through provided channels. Discord is linked in profile description. 
+Please open an issue in this repository or contact directly through provided channels. Discord is linked in profile description.
 
 ---
 
@@ -229,7 +242,7 @@ The researcher maintains no financial interests in entities analyzed. This work 
 
 ## 📜 License
 
-This research is released under [appropriate open-source license] to maximize accessibility for journalists, researchers, and policy analysts while maintaining attribution standards.
+This research is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) to maximize accessibility for journalists, researchers, and policy analysts while maintaining attribution standards.
 
 Data sourcing and methodology may be freely adapted with proper citation. Commercial use requires attribution to "Project Chrysanthemum: Japan-China AI Integration Analysis."
 
