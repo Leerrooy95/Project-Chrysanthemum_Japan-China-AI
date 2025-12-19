@@ -215,7 +215,7 @@ This is an open-source intelligence product. If you:
 - Need clarification on methodology or findings
 - Want to discuss journalistic collaboration
 
-Please open an issue in this repository or contact directly through provided channels.
+Please open an issue in this repository or contact directly through provided channels. Discord is linked in profile description. 
 
 ---
 
