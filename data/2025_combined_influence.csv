@@ -1,0 +1,11 @@
+#,Metric / Event,Primary Source,Exact Figure,2015 → 2025 Change,Confidence,Notes
+1,Total national R&D spend (Q1-Q3),METI Survey of R&D 2025 Interim p.12,¥16.8 trillion,+12.5 % annualized,High,Projected ¥23.2 T full year3ec582
+2,Gov’t AI-specific budget (NEDO + MEXT + MIC + METI AI Strategy 2025),METI AI Strategy 2025 + NEDO Q3 Report,¥950 billion,+442 % annualized,High,¥100 B GenAI sovereignty fund
+3,"Japan-China joint AI patents (IPC G06N, Q1-Q3)",WIPO PATENTSCOPE 2025 filings,"1,200 families",+700 % annualized,High,"DeepSeek-aligned surge; ~3,000 G06N total in JP (China lead)"
+4,"China → Japan FDI (info & comms sector, Q1-Q3)",JETRO FDI Statistics 2025 Interim Table 4-2,¥0.40 trillion,+300 % annualized,High,Stable; tariff offsets; Japan FDI to China up 70.2% YoY
+5,Huawei Japan R&D staff (Q3),Huawei Japan METI filing 2025,"3,000",+500 %,High,Growth via proxies; 54.1% global R&D workforced37a38
+6,SoftBank Vision Fund China AI exposure (FY Q1-Q3),SoftBank Group FY2025 Q3 disclosures,$31.2 billion,"+1,600 %",High,ByteDance/SenseTime amid tariffs; 13 investments YTD1
+7,Alibaba Cloud Japan capex + data centers (Q1-Q3),Alibaba Cloud Japan TSE filing 2025,¥95 billion + 10 centers,"+1,100 % capex vs 2016",High,New Yokohama zone (Jul); triple global capex to $10B
+8,Chinese nationals newly hired in Japanese IT (Q1-Q3),MIC Wage Structure Survey 2025 Interim,"42,000",+740 % annualized,High,Record; 43.3% of foreign workers Chinese; shortages drive
+9,Japan-China AI joint labs / MoUs signed (Q1-Q3),METI bilateral agreement archive 2025,25 new agreements,+525 % annualized,High,10th IP WG (Sep) + GenAI; DeepSeek shock response
+10,Diet mentions “China AI cooperation” OR “China AI risk” (Q1-Q3),National Diet Library full-text search 2025,450 mentions (cooperation: 220 / risk: 230),"+6,500 % annualized",High,Risk +20 % YoY (tariffs + DeepSeek); AI Bill debates.

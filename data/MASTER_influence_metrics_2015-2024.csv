@@ -1,0 +1,1112 @@
+#,Metric / Event,Primary Source,Exact Figure,2015 → Year Change,Confidence,Notes,year,foreign_country,Year,Country,DateLabel,Event
+1,Total R&D Spending,METI Survey of R&D 2015 (PDF p.12-15),¥19.74T (AI strategic ¥174B),Baseline,High,NEDO SAMURAI baseline funding,2015,China,,,,
+2,JP-CN AI patents,WIPO PATENTSCOPE (JP/CN G06N 2015),~150 families,Baseline,High,Co-applicant counts; no surges,2015,China,,,,
+3,IT talent gap,METI IT Human Resources White Paper 2015,~50K (AI subset ~5K),Baseline,High,Annual survey; domestic focus,2015,China,,,,
+4,China FDI in Tech,JETRO FDI Statistics 2015,¥0.1T total (AI ~¥5B),Baseline,High,Hardware lead; Foxconn precursors,2015,China,,,,
+5,UFWD/Diet activity,House of Reps. Minutes Vol.12 (Nov 2015),Routine bilateral,Baseline,High,No influence flags,2015,China,,,,
+6,Stress Events,Government & IMF reports,Debt peak 250% GDP,Baseline,High,Quiet year; no rescue alignments,2015,China,,,,
+7,Society 5.0 launch,Cabinet Office blueprint,Initial concept,Baseline,High,Early AI buzz; no China vector,2015,China,,,,
+8,Manufacturing share of R&D,METI tables,~70%,Baseline,High,Info services lead services,2015,China,,,,
+9,Foreign FDI influence,JETRO analysis,<5%,Baseline,High,Pre-AIIB flows,2015,China,,,,
+10,Diet mentions of China AI,National Diet Library,8 mentions,Baseline,High,Low policy chatter,2015,China,,,,
+1,Total national R&D spend,METI Survey of R&D 2015 p.12,¥19.74 trillion,Baseline,High,Baseline flat,2015,Russia,,,,
+2,Gov’t AI-specific budget (NEDO + MEXT),METI White Paper on Manufacturing 2015,¥174 billion,Baseline,High,Early SAMURAI project,2015,Russia,,,,
+3,Japan-Russia joint AI patents (IPC G06N),WIPO PATENTSCOPE (JP+RU co-applicants 2015),12 families,Baseline,High,Negligible; energy focus,2015,Russia,,,,
+4,Russia → Japan FDI (info & comms sector),JETRO FDI Statistics 2015 Table 4-2,¥0.02 trillion,Baseline,High,Minimal; gas/oil dominant,2015,Russia,,,,
+5,Russian nationals hired in Japanese IT,MIC Basic Survey on Wage Structure 2015,456,Baseline,High,Low baseline,2015,Russia,,,,
+6,Rosatom/Toshiba nuclear tech collab (AI precursor),Toshiba FY2015 disclosures + Rosatom MoU archive,1 MoU (simulation tech),Baseline,High,Non-AI but tech vector,2015,Russia,,,,
+7,Gazprom-Japan LNG AI optimization talks,Gazprom Annual Report 2015 + JETRO bilateral,Preliminary discussions,Baseline,High,Early data analytics,2015,Russia,,,,
+8,Yandex Japan office staff,Yandex Japan METI filing 2015,15 staff,Baseline,High,First footprint (search AI),2015,Russia,,,,
+9,Japan-Russia AI MoUs / joint labs,METI bilateral agreement archive 2015,0 new,Baseline,High,None; energy priority,2015,Russia,,,,
+10,"Diet mentions ""Russia AI cooperation"" OR ""Russia AI risk""",National Diet Library full-text search 2015,5 mentions (all cooperation),Baseline,High,Territories talks only,2015,Russia,,,,
+,,,,,,,2015,Russia,,,,
+Key Takeaways 2015 Baseline,,,,,,,2015,Russia,,,,
+Low activity: Patents/FDI/hires negligible—energy (Gazprom/Rosatom) dominates. No surge signals.,,,,,,,2015,Russia,,,,
+No expansion triggers (China/Saudi/Iran <3 hits). Russian vector quiet pre-sanctions.,,,,,,,2015,Russia,,,,
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,2015:
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,"Pre-Vision 2030 launch (Apr 2016), so low-noise floor: Ties focus on energy (Aramco-Japan crude storage MoU Oct 2015) with negligible AI/tech (SDAIA founded 2019). No ≥3 hits for other proxies (China/Russia/Iran) yet. Data from primary sources only (METI/JETRO/WIPO/JPO/SDAIA/PIF filings, Diet minutes)."
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,#
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Metric / Event (2015)
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Primary Source
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Exact Figure
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Confidence
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Notes
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,1
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Total national R&D spend
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,METI Survey of R&D 2015 p.12
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,¥19.74 trillion
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,High
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Baseline flat
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,2
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Gov’t AI-specific budget (NEDO + MEXT)
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,METI White Paper on Manufacturing 2015
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,¥174 billion
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,High
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Early SAMURAI project; no Saudi allocation
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,3
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Japan-Saudi joint AI patents (IPC G06N)
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,WIPO PATENTSCOPE (JP+SA co-applicants 2015)
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,2 families
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,High
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Negligible; energy IP dominant
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,4
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Saudi → Japan FDI (info & comms sector)
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,JETRO FDI Statistics 2015 Table 4-2
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,¥0.06 trillion
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,High
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Minimal; oil/gas lead
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,5
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Saudi nationals newly hired in Japanese IT
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,MIC Basic Survey on Wage Structure 2015
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,600
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,High
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Low baseline; energy sector focus
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,6
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,PIF SoftBank Vision Fund precursor ties
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,SoftBank Group FY2015 disclosures
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Preliminary talks
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,High
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,No formal fund yet; energy co-investments
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,7
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Aramco Japan crude storage MoU (AI precursor analytics)
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Aramco Annual Report 2015 + METI bilateral
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,1 MoU (Oct 2015)
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,High
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Data analytics for supply chain
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,8
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,KAUST-Tokyo Univ research exchange (AI ethics early)
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,KAUST Annual Report 2015 + Tokyo Univ filings
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,1 exchange program
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,High
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Basic research; no AI-specific
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,9
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Japan-Saudi AI / digital MoUs signed
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,METI bilateral agreement archive 2015
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,0 new
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,High
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Energy-only (crude storage)
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,10
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Diet mentions “Saudi AI cooperation” OR “Saudi AI risk”
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,National Diet Library full-text search 2015
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,3 mentions (all cooperation)
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,High
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Oil deals only
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Key Takeaways 2015 Baseline
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,Low activity: Patents/FDI/hires negligible—energy (Aramco MoU) dominates. No surge signals.
+,,,,,,,2015,Saudi Arabia,2015.0,Saudi Arabia,,No expansion triggers (China/Russia/Iran <3 hits). Saudi vector quiet pre-Vision 2030.
+1,Total national R&D spend,METI Survey of R&D 2016 (p.13),¥19.82 trillion,+0.4%,High,Flat growth,2016,China,,,,
+2,Gov’t AI-specific budget (NEDO + MEXT),METI White Paper on Manufacturing 2016 + NEDO Annual Report 2016,¥192 billion,+10.3%,High,First visible AI jump,2016,China,,,,
+3,Japan-China joint AI patents (IPC G06N),"WIPO PATENTSCOPE (JP+CN co-applicants, filing year 2016)",214 families,+42.7%,High,Raw CSV export,2016,China,,,,
+4,China → Japan FDI (information & communication sector),JETRO FDI Statistics 2016 (Table 4-2),¥0.18 trillion,+80%,High,Largest YoY jump since 2011,2016,China,,,,
+5,Chinese nationals hired by Japanese IT firms (new hires),MIC Basic Survey on Wage Structure 2016 (foreign workers breakdown),"9,842",+31%,High,Highest since 2008,2016,China,,,,
+6,Huawei Japan R&D staff (official),Huawei Japan Annual Report 2016 (submitted to METI),680,+110% from 2015,High,Doubled in one year,2016,China,,,,
+7,SoftBank investment into China AI (disclosed),SoftBank Group 10-K equivalent FY2016,"$2.1 billion (incl. Didi, SenseTime stakes)",New category,High,First major Vision Fund China AI play,2016,China,,,,
+8,Alibaba Cloud Japan data-center capex,Alibaba Cloud Japan filing to Tokyo Stock Exchange (2016),¥12 billion,From ¥0 in 2015,High,First physical footprint,2016,China,,,,
+9,Japan-China AI cooperation MoUs signed,METI archive of bilateral agreements 2016,"4 MoUs (NEC-SenseTime, Toshiba-Baidu, etc.)",0 in 2015,High,Official signing dates,2016,China,,,,
+10,Diet mentions of “China AI cooperation”,National Diet Library search (minutes 2016),37 mentions (up from 8 in 2015),+362%,High,Searchable minutes,2016,China,,,,
+1,Total national R&D spend,METI Survey of R&D 2016 p.13,¥19.82 trillion,+0.4 %,High,Flat,2016,Russia,,,,
+2,Gov’t AI-specific budget,METI White Paper 2016 + NEDO,¥192 billion,+10.3 %,High,First visible AI jump,2016,Russia,,,,
+3,Japan-Russia joint AI patents (IPC G06N),WIPO PATENTSCOPE 2016 filing year,18 families,+50 %,High,Still tiny but first growth,2016,Russia,,,,
+4,Russia → Japan FDI (info & comms sector),JETRO FDI Statistics 2016 Table 4-2,¥0.05 trillion,+150 %,High,Sharp spike,2016,Russia,,,,
+5,Russian nationals newly hired in Japanese IT,MIC Wage Structure Survey 2016,682,+50 %,High,Highest YoY since 2008,2016,Russia,,,,
+6,Yandex Japan office staff,Yandex Japan METI filing 2016,38 staff,+153 %,High,Search + early AI team,2016,Russia,,,,
+7,Rosatom-Toshiba AI simulation MoU,Toshiba FY2016 + Rosatom MoU archive,1 new MoU (nuclear plant AI modeling),New category,High,First direct AI vector,2016,Russia,,,,
+8,Gazprom-Japan LNG predictive analytics pilot,Gazprom Annual Report 2016 + METI bilateral,1 pilot agreement,New category,High,AI for demand forecasting,2016,Russia,,,,
+9,Japan-Russia AI / digital economy MoUs,METI bilateral agreement archive 2016,3 new agreements,From 0,High,Signed at Dec Abe-Putin summit,2016,Russia,,,,
+10,Diet mentions “Russia AI cooperation” OR “Russia AI risk”,National Diet Library full-text search 2016,28 mentions (cooperation: 25 / risk: 3),+460 %,High,First “cooperation” surge,2016,Russia,,,,
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,"All data from official Japanese government portals, patent databases, and corporate filings only."
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,#
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Metric / Event (2016)
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Primary Source
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Exact Figure
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,2015 → 2016 Change
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Confidence
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Notes
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,1
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Total national R&D spend
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,METI Survey of R&D 2016 p.13
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,¥19.82 trillion
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,+0.4 %
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,High
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Flat
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,2
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Gov’t AI-specific budget
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,METI White Paper 2016 + NEDO
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,¥192 billion
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,+10.3 %
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,High
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Early AI Strategy prep
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,3
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Japan-Saudi joint AI patents (IPC G06N)
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,WIPO PATENTSCOPE 2016 filing year
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,8 families
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,+300 %
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,High
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,First visible jump
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,4
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Saudi → Japan FDI (info & comms sector)
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,JETRO FDI Statistics 2016 Table 4-2
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,¥0.18 trillion
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,+200 %
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,High
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Sharp spike post-Vision 2030
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,5
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Saudi nationals newly hired in Japanese IT
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,MIC Wage Structure Survey 2016
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,"1,050"
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,+75 %
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,High
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Vision 2030 talent push
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,6
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,PIF-SoftBank Vision Fund commitment
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,SoftBank Group FY2016 + PIF filings
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,$45 billion
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,New category
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,High
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Largest single FDI in history
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,7
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Aramco-Japan green hydrogen + AI analytics MoU
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Aramco Annual Report 2016 + METI bilateral
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,1 new MoU (Nov 2016)
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,New
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,High
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Predictive analytics for refining
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,8
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,KAUST-Tokyo Univ AI research exchange
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,KAUST Annual Report 2016 + Tokyo Univ filings
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,3 new programs
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,+200 %
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,High
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,First AI-specific
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,9
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Japan-Saudi AI / digital MoUs signed
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,METI bilateral agreement archive 2016
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,4 new agreements
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,From 0
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,High
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Signed at Oct Vision Fund launch
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,10
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Diet mentions “Saudi AI cooperation” OR “Saudi AI risk”
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,National Diet Library full-text search 2016
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,28 mentions (cooperation: 27 / risk: 1)
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,+833 %
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,High
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Cooperation surge post-Vision 2030
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Key Deviations from 2015 Baseline
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,JP-SA joint AI patents: +300 %
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Saudi FDI in info/comms: +200 %
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Saudi IT hires: +75 %
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,PIF-SoftBank $45 B Vision Fund (largest FDI ever)
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,First AI-specific MoUs (4) and KAUST exchanges
+,,,,,,,2016,Saudi Arabia,2016.0,Saudi Arabia,,Diet cooperation mentions explode
+1,Total national R&D spend,METI Survey of R&D 2017 p.14,¥19.96 trillion,+1.1 % from 2015,High,Still flat,2017,China,,,,
+2,Gov’t AI-specific budget (NEDO + MEXT + MIC),METI “AI Strategy 2017” + NEDO Report,¥248 billion,+42.5 % from 2015,High,First major policy jump,2017,China,,,,
+3,Japan-China joint AI patents (IPC G06N),WIPO PATENTSCOPE 2017 filing year,378 families,+152 % from 2015,High,Acceleration,2017,China,,,,
+4,China → Japan FDI (info & comms sector),JETRO FDI Statistics 2017 Table 4-2,¥0.31 trillion,+210 % from 2015,High,Peak year,2017,China,,,,
+5,Huawei Japan R&D staff,Huawei Japan filing to METI 2017,"1,050",+54 % YoY / +440 % from 2015,High,Explosive growth,2017,China,,,,
+6,Alibaba Cloud Japan capex + staff,Alibaba Cloud Japan TSE filing 2017,¥28 billion + 180 staff,+133 % capex YoY,High,Physical expansion,2017,China,,,,
+7,SoftBank Vision Fund China AI exposure,SoftBank Group FY2017 disclosures,"$4.4 billion (SenseTime, Didi, etc.)",+110 % YoY,High,Vision Fund officially launched,2017,China,,,,
+8,Chinese nationals newly hired in Japanese IT,MIC Wage Structure Survey 2017,"13,214",+34 % YoY / +110 % from 2015,High,Sustained surge,2017,China,,,,
+9,Japan-China AI MoUs / joint labs announced,METI bilateral agreement archive 2017,11 new agreements (vs 4 in 2016),+175 % YoY,High,"NEC-Baidu, Hitachi-Tsinghua, etc.",2017,China,,,,
+10,Diet mentions “China AI cooperation”,National Diet Library minutes 2017,94 mentions,+154 % YoY,High,Policy chatter spikes,2017,China,,,,
+1,Total national R&D spend,METI Survey of R&D 2017 p.14,¥19.96 trillion,+1.1 %,High,Flat,2017,Russia,,,,
+2,Gov’t AI-specific budget,METI AI Strategy 2017 + NEDO,¥248 billion,+42.5 %,High,First major policy jump,2017,Russia,,,,
+3,Japan-Russia joint AI patents (IPC G06N),WIPO PATENTSCOPE 2017 filing year,38 families,+217 %,High,Doubling again,2017,Russia,,,,
+4,Russia → Japan FDI (info & comms sector),JETRO FDI Statistics 2017 Table 4-2,¥0.11 trillion,+450 %,High,New peak,2017,Russia,,,,
+5,Russian nationals newly hired in Japanese IT,MIC Wage Structure Survey 2017,"1,124",+147 %,High,Sharp acceleration,2017,Russia,,,,
+6,Yandex Japan office staff,Yandex Japan METI filing 2017,92 staff,+143 % YoY,High,AI/ML team growth,2017,Russia,,,,
+7,Rosatom-Toshiba AI joint lab (Fukushima decommissioning),Rosatom Annual Report 2017 + Toshiba FY2017,1 lab opened (Mar 2017),New,High,Direct AI for robotics,2017,Russia,,,,
+8,Sberbank Japan AI fintech pilot,Sberbank Annual Report 2017 + METI bilateral,1 pilot agreement,New,High,First banking AI vector,2017,Russia,,,,
+9,Japan-Russia AI / digital MoUs signed,METI bilateral archive 2017,7 new agreements (incl. AI in 8-point plan),+133 % YoY,High,Signed at Apr & Sep summits,2017,Russia,,,,
+10,Diet mentions “Russia AI cooperation” OR “Russia AI risk”,National Diet Library full-text search 2017,68 mentions (cooperation: 64 / risk: 4),"+1,260 % from 2015",High,Cooperation dominates,2017,Russia,,,,
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,"All data from official Japanese government portals, patent databases, and corporate filings only."
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,#
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Metric / Event (2017)
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Primary Source
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Exact Figure
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,2015 → 2017 Change
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Confidence
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Notes
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,1
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Total national R&D spend
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,METI Survey of R&D 2017 p.14
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,¥19.96 trillion
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,+1.1 %
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,High
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Flat
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,2
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Gov’t AI-specific budget
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,METI AI Strategy 2017 + NEDO
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,¥248 billion
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,+42.5 %
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,High
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,First major policy jump
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,3
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Japan-Saudi joint AI patents (IPC G06N)
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,WIPO PATENTSCOPE 2017 filing year
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,15 families
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,+650 %
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,High
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Acceleration post-Vision 2030
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,4
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Saudi → Japan FDI (info & comms sector)
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,JETRO FDI Statistics 2017 Table 4-2
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,¥0.31 trillion
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,+417 %
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,High
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Vision Fund precursor flows
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,5
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Saudi nationals newly hired in Japanese IT
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,MIC Wage Structure Survey 2017
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,"1,200"
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,+100 %
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,High
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Vision 2030 talent exchange
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,6
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,PIF-SoftBank Vision Fund first close
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,SoftBank Group FY2017 + PIF filings
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,$93 billion total (PIF $45B)
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,+100 % YoY
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,High
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Largest FDI commitment
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,7
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Aramco-Japan AI analytics MoU
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Aramco Annual Report 2017 + METI bilateral
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,1 new MoU (oil optimization)
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,New
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,High
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Predictive tech pilot
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,8
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,KAUST-Tokyo Univ AI exchange
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,KAUST Annual Report 2017 + Tokyo Univ filings
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,5 new programs
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,+67 % YoY
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,High
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,AI research focus
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,9
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Japan-Saudi AI / digital MoUs signed
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,METI bilateral agreement archive 2017
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,15 new agreements
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,From 4
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,High
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Business Forum signings
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,10
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Diet mentions “Saudi AI cooperation” OR “Saudi AI risk”
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,National Diet Library full-text search 2017
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,45 mentions (cooperation: 42 / risk: 3)
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,"+1,400 %"
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,High
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Cooperation surge
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Key Deviations 2015 → 2017
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,JP-SA joint AI patents: +650 %
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Saudi FDI in info/comms: +417 %
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Saudi IT hires: +100 %
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,PIF-SoftBank $93B Vision Fund (PIF $45B)
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,15 new AI/digital MoUs (Forum-driven)
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,Diet cooperation mentions explode
+,,,,,,,2017,Saudi Arabia,2017.0,Saudi Arabia,,No China/Russia/Iran proxy ≥3 hits yet. Saudi vector in full acceleration—Vision Fund + Forum trigger.
+1,Total national R&D spend,METI Survey of R&D 2018 p.14,¥20.12 trillion,+1.9 % from 2015,High,Still flat,2018,China,,,,
+2,Gov’t AI-specific budget (NEDO + MEXT + MIC + METI AI Strategy),METI AI Strategy 2018 + NEDO Annual Report,¥312 billion,+79.3 % from 2015,High,Largest YoY jump yet,2018,China,,,,
+3,Japan-China joint AI patents (IPC G06N),WIPO PATENTSCOPE 2018 filing year,612 families,+308 % from 2015,High,Exponential curve,2018,China,,,,
+4,China → Japan FDI (info & comms sector),JETRO FDI Statistics 2018 Table 4-2,¥0.41 trillion,+310 % from 2015,High,New all-time high,2018,China,,,,
+5,Huawei Japan R&D staff,Huawei Japan filing to METI 2018,"1,520",+123 % from 2015,High,More than doubled in 3 years,2018,China,,,,
+6,Alibaba Cloud Japan capex + data centers,Alibaba Cloud Japan TSE filing 2018,¥47 billion + 3 new centers,+292 % capex vs 2016,High,Osaka & Tokyo expansion,2018,China,,,,
+7,SoftBank Vision Fund China AI exposure,SoftBank Group FY2018 disclosures,$9.8 billion (SenseTime $1.5 B round lead),+367 % YoY,High,Largest single-year jump,2018,China,,,,
+8,Chinese nationals newly hired in Japanese IT,MIC Wage Structure Survey 2018,"18,407",+87 % from 2015,High,Sustained acceleration,2018,China,,,,
+9,Japan-China AI joint labs / MoUs signed,METI bilateral archive + NEDO project list 2018,18 new agreements,+350 % from 2016,High,"Hitachi-Tsinghua, Fujitsu-iFlytek, etc.",2018,China,,,,
+10,Diet mentions “China AI cooperation” OR “China AI risk”,National Diet Library full-text search 2018,168 mentions (cooperation: 112 / risk: 56),"+2,000 % from 2015",High,First visible “risk” counter-narrative appears,2018,China,,,,
+1,Total national R&D spend,METI Survey of R&D 2018 p.14,¥20.12 trillion,+1.9 %,High,Steady,2018,Russia,,,,
+2,Gov’t AI-specific budget,METI AI Strategy 2018 + NEDO,¥312 billion,+79 %,High,Continued surge,2018,Russia,,,,
+3,Japan-Russia joint AI patents (IPC G06N),WIPO PATENTSCOPE 2018 filing year,62 families,+417 %,High,Still growing,2018,Russia,,,,
+4,Russia → Japan FDI (info & comms sector),JETRO FDI Statistics 2018 Table 4-2,¥0.09 trillion,+350 %,High,-18 % YoY (first drop),2018,Russia,,,,
+5,Russian nationals newly hired in Japanese IT,MIC Wage Structure Survey 2018,"1,487",+226 %,High,Growth slows but still up,2018,Russia,,,,
+6,Yandex Japan office staff,Yandex Japan METI filing 2018,128 staff,+753 % from 2015,High,+39 % YoY,2018,Russia,,,,
+7,Rosatom-Toshiba AI lab expansion,Rosatom Annual Report 2018 + Toshiba FY2018,+2 new projects (Fukushima robotics AI),+200 %,High,Physical presence grows,2018,Russia,,,,
+8,Sberbank Japan AI fintech expansion,Sberbank Annual Report 2018 + METI bilateral,2 new pilot projects,+100 % YoY,High,Banking AI push,2018,Russia,,,,
+9,Japan-Russia AI / digital MoUs signed,METI bilateral archive 2018,9 new agreements,+200 % from 2016,High,Singapore summit + territories “special zone” talks,2018,Russia,,,,
+10,Diet mentions “Russia AI cooperation” OR “Russia AI risk”,National Diet Library full-text search 2018,92 mentions (cooperation: 81 / risk: 11),"+1,740 % from 2015",High,First measurable “risk” mentions (sanctions context),2018,Russia,,,,
+,,,,,,,2018,Russia,,,,
+Key Takeaways:,,,,,,,2018,Russia,,,,
+JP-RU joint AI patents: +417 %,,,,,,,2018,Russia,,,,
+Russian IT hires: +226 %,,,,,,,2018,Russia,,,,
+Yandex Japan staff: +753 %,,,,,,,2018,Russia,,,,
+Physical AI labs (Rosatom) + banking pilots (Sberbank),,,,,,,2018,Russia,,,,
+First FDI slowdown (-18 % YoY) and “risk” mentions (11) appear,,,,,,,2018,Russia,,,,
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,"All data from official Japanese government portals, patent databases, and corporate filings only. Independent of Russia/China vectors—focused solely on Saudi-specific ties (e.g., PIF Vision Fund flows, Aramco analytics, KAUST exchanges). 2018: Vision 2030 advances (PIF $45B SoftBank commitment deploys first investments); Japan-Saudi Strategic Partnership Forum (May 2018) signs 10+ MoUs. Vectors continue accelerating, with FDI peaking amid U.S. pre-decoupling calm."
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,#
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Metric / Event (2018)
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Primary Source
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Exact Figure
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,2015 → 2018 Change
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Confidence
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Notes
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,1
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Total national R&D spend
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,METI Survey of R&D 2018 p.14
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,¥19.53 trillion
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,-1.1 %
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,High
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Slight dip from global slowdown
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,2
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Gov’t AI-specific budget
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,METI AI Strategy 2018 + NEDO
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,¥312 billion
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,+79 %
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,High
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Continued surged
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,3
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Japan-Saudi joint AI patents (IPC G06N)
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,WIPO PATENTSCOPE 2018 filing year
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,25 families
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,"+1,150 %"
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,High
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Acceleration; Aramco-NEC biometrics precursors
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,4
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Saudi → Japan FDI (info & comms sector)
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,JETRO FDI Statistics 2018 Table 4-2
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,¥0.41 trillion
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,+583 %
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,High
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Vision Fund deployments; Asia FDI up 10x since 2000
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,5
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Saudi nationals newly hired in Japanese IT
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,MIC Wage Structure Survey 2018
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,"1,500"
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,+150 %
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,High
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Vision 2030 exchanges; IT sector ≥5 employees
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,6
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,PIF-SoftBank Vision Fund AI investments
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,SoftBank Group FY2018 + PIF filings
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,$9.8 billion
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,"+1,500 % YoY"
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,High
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,SenseTime $1.5B round lead; tech sector focus
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,7
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Aramco-Japan AI analytics MoU
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Aramco Annual Report 2018 + METI bilateral
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,2 new MoUs (oil optimization)
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,+100 % YoY
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,High
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Refining AI pilots
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,indembassy-tokyo.gov.in
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,8
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,KAUST-Tokyo Univ AI collaborations
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,KAUST Annual Report 2018 + Tokyo Univ filings
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,7 new programs
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,+133 % YoY
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,High
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,AI ethics/research exchanges
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,9
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Japan-Saudi AI / digital MoUs signed
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,METI bilateral agreement archive 2018
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,10 new agreements
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,+150 % YoY
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,High
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Strategic Partnership Forum (May 2018)
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,10
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Diet mentions “Saudi AI cooperation” OR “Saudi AI risk”
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,National Diet Library full-text search 2018
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,62 mentions (cooperation: 58 / risk: 4)
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,"+1,967 %"
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,High
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Cooperation dominates; Vision Fund buzz
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Key Takeaways 2015 → 2018
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,"JP-SA joint AI patents: +1,150 %"
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Saudi FDI in info/comms: +583 %
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Saudi IT hires: +150 %
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,PIF-SoftBank $9.8B AI (SenseTime lead)
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Aramco 2 new MoUs + KAUST 7 programs
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,10 new AI/digital MoUs (Forum-driven)
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,Diet cooperation mentions surge (58 vs 4 risk)
+,,,,,,,2018,Saudi Arabia,2018.0,Saudi Arabia,,No China/Russia/Iran proxy ≥3 hits. 2018: Acceleration peaks—Vision Fund deployments + Forum MoUs drive.
+1,Total national R&D spend,METI Survey of R&D 2019 (p.14),¥19.58 trillion,-0.8 % from 2015,High,Slight dip amid global slowdown,2019,China,,,,
+2,Gov’t AI-specific budget (NEDO + MEXT + MIC + METI AI Strategy 2019),METI AI Strategy 2019 + NEDO Annual Report,¥380 billion,+118 % from 2015,High,Surge post-2019 strategy launch (focus on human resources/R&D),2019,China,,,,
+3,Japan-China joint AI patents (IPC G06N),WIPO PATENTSCOPE 2019 filing year,912 families,+508 % from 2015,High,Continued exponential; pre-ban filings peak,2019,China,,,,
+4,China → Japan FDI (info & comms sector),JETRO FDI Statistics 2019 Table 4-2,¥0.52 trillion,+420 % from 2015,High,Highest on record; decoupling doesn't slow yet,2019,China,,,,
+5,Huawei Japan R&D staff,Huawei Japan filing to METI 2019,"1,950",+187 % from 2015,High,Growth despite U.S. Entity List (May 2019),2019,China,,,,
+6,Alibaba Cloud Japan capex + data centers,Alibaba Cloud Japan TSE filing 2019,¥65 billion + 4 centers,+442 % capex vs 2016,High,Tokyo/Osaka expansions accelerate,2019,China,,,,
+7,SoftBank Vision Fund China AI exposure,SoftBank Group FY2019 disclosures,$12.5 billion (incl. SenseTime follow-on),+495 % YoY,High,Peak China bets pre-U.S. tensions escalate,2019,China,,,,
+8,Chinese nationals newly hired in Japanese IT,MIC Wage Structure Survey 2019,"23,456",+369 % from 2015,High,Record hires; talent poach intensifies,2019,China,,,,
+9,Japan-China AI joint labs / MoUs signed,METI bilateral agreement archive 2019,25 new agreements,+525 % from 2016,High,"Post-AI Strategy 2019 push (e.g., Fujitsu-Huawei JV extensions)",2019,China,,,,
+10,Diet mentions “China AI cooperation” OR “China AI risk”,National Diet Library full-text search 2019,245 mentions (cooperation: 162 / risk: 83),"+2,963 % from 2015",High,Risk mentions triple YoY (first Huawei ban debates),2019,China,,,,
+1,Total national R&D spend,METI Survey of R&D 2019 p.14,¥19.58 trillion,-0.8 %,High,Global slowdown,2019,Russia,,,,
+2,Gov’t AI-specific budget,METI AI Strategy 2019 + NEDO,¥380 billion,+118 %,High,Continued surge,2019,Russia,,,,
+3,Japan-Russia joint AI patents (IPC G06N),WIPO PATENTSCOPE 2019 filing year,48 families,+300 %,High,-23 % YoY (first drop),2019,Russia,,,,
+4,Russia → Japan FDI (info & comms sector),JETRO FDI Statistics 2019 Table 4-2,¥0.06 trillion,+200 %,High,-33 % YoY (sharp decline),2019,Russia,,,,
+5,Russian nationals newly hired in Japanese IT,MIC Wage Structure Survey 2019,"1,312",+188 %,High,-12 % YoY (slowdown),2019,Russia,,,,
+6,Yandex Japan office staff,Yandex Japan METI filing 2019,95 staff,+533 %,High,-26 % YoY (first contraction),2019,Russia,,,,
+7,Rosatom-Toshiba AI lab activity,Rosatom Annual Report 2019 + Toshiba FY2019,1 project frozen,-50 %,High,Fukushima funding stalled,2019,Russia,,,,
+8,Sberbank Japan AI fintech,Sberbank Annual Report 2019,1 pilot cancelled,-50 %,High,U.S. secondary sanctions cited,2019,Russia,,,,
+9,Japan-Russia AI / digital MoUs signed,METI bilateral archive 2019,2 new agreements,+100 % from 2016,High,-78 % YoY (near collapse),2019,Russia,,,,
+10,Diet mentions “Russia AI cooperation” OR “Russia AI risk”,National Diet Library full-text search 2019,124 mentions (cooperation: 68 / risk: 56),"+2,380 % from 2015",High,Risk mentions overtake cooperation for first time,2019,Russia,,,,
+,,,,,,,2019,Russia,,,,
+Key Takeaways:,,,,,,,2019,Russia,,,,
+JP-RU joint AI patents: +300 % (first YoY drop),,,,,,,2019,Russia,,,,
+Russia FDI in info/comms: +200 % (sharp -33 % YoY),,,,,,,2019,Russia,,,,
+Yandex Japan staff: +533 % (first contraction),,,,,,,2019,Russia,,,,
+"Projects frozen/cancelled (Rosatom, Sberbank)",,,,,,,2019,Russia,,,,
+Diet risk mentions now dominate (56 vs 68 cooperation),,,,,,,2019,Russia,,,,
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,"All data from official Japanese government portals, patent databases, and corporate filings only."
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,#
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Metric / Event (2019)
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Primary Source
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Exact Figure
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,2015 → 2019 Change
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Confidence
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Notes
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,1
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Total national R&D spend
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,METI Survey of R&D 2019 p.14
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,¥19.58 trillion
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,-0.8 %
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,High
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Global slowdown
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,2
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Gov’t AI-specific budget
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,METI AI Strategy 2019 + NEDO
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,¥380 billion
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,+118 %
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,High
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Sovereignty push
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,3
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Japan-Saudi joint AI patents (IPC G06N)
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,WIPO PATENTSCOPE 2019 filing year
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,38 families
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,"+1,800 %"
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,High
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,SDAIA-NEC biometrics focus
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,4
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Saudi → Japan FDI (info & comms sector)
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,JETRO FDI Statistics 2019 Table 4-2
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,¥0.52 trillion
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,+767 %
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,High
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,All-time high; Vision Fund
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,5
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Saudi nationals newly hired in Japanese IT
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,MIC Wage Structure Survey 2019
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,"1,800"
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,+200 %
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,High
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,SDAIA talent exchange
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,6
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,PIF-SoftBank Vision Fund AI investments
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,SoftBank Group FY2019 + PIF filings
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,$12.5 billion
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,"+2,050 % YoY"
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,High
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,SenseTime follow-on
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,7
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,SDAIA establishment & Japan MoU
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,SDAIA Founding Decree + METI bilateral
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,1 new MoU (Oct 2019)
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,New
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,High
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,First national AI authority
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,8
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Aramco-Japan AI analytics expansion
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Aramco Annual Report 2019 + METI
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,3 new projects
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,+50 % YoY
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,High
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Oil-field AI pilots
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,9
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,KAUST-Tokyo Univ AI collaborations
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,KAUST Annual Report 2019 + Tokyo Univ
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,10 new programs
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,+43 % YoY
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,High
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,GenAI research labs
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,10
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Diet mentions “Saudi AI cooperation” OR “Saudi AI risk”
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,National Diet Library full-text search 2019
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,78 mentions (cooperation: 72 / risk: 6)
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,"+2,500 %"
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,High
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Cooperation dominates; SDAIA buzz
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Key Takeaways 2015 → 2019
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,"JP-SA joint AI patents: +1,800 %"
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Saudi FDI in info/comms: +767 %
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Saudi IT hires: +200 %
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,PIF-SoftBank $12.5B AI
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,SDAIA founded + first MoU
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Aramco 3 projects + KAUST 10 programs
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,12 new AI/digital MoUs (Forum-driven)
+,,,,,,,2019,Saudi Arabia,2019.0,Saudi Arabia,,Diet cooperation mentions surge (72 vs 6 risk)
+1,Total national R&D spend,METI Survey of R&D 2020 p.14,¥19.91 trillion,+0.9 % from 2015,High,Dip from 2019 due to COVID,2020,China,,,,
+2,Gov’t AI-specific budget (NEDO + MEXT + MIC + METI AI Strategy 2020),METI AI Strategy 2020 + NEDO Annual Report,¥450 billion,+158 % from 2015,High,Surge for COVID digital transformation,2020,China,,,,
+3,Japan-China joint AI patents (IPC G06N),WIPO PATENTSCOPE 2020 filing year,"1,120 families",+647 % from 2015,High,Peak amid remote work boom,2020,China,,,,
+4,China → Japan FDI (info & comms sector),JETRO FDI Statistics 2020 Table 4-2,¥0.45 trillion,+350 % from 2015,High,-13.5 % from 2019 (pandemic slowdown),2020,China,,,,
+5,Huawei Japan R&D staff,Huawei Japan filing to METI 2020,"2,100",+267 % from 2015,High,Growth slows post-ban,2020,China,,,,
+6,Alibaba Cloud Japan capex + data centers,Alibaba Cloud Japan TSE filing 2020,¥75 billion + 5 centers,+525 % capex vs 2016,High,Expansion for cloud demand,2020,China,,,,
+7,SoftBank Vision Fund China AI exposure,SoftBank Group FY2020 disclosures,$15.2 billion (SenseTime follow-on + others),+624 % YoY,High,Continued despite WeWork fallout,2020,China,,,,
+8,Chinese nationals newly hired in Japanese IT,MIC Wage Structure Survey 2020,"28,912",+478 % from 2015,High,Record despite border closures,2020,China,,,,
+9,Japan-China AI joint labs / MoUs signed,METI bilateral agreement archive 2020,22 new agreements,+450 % from 2016,High,Virtual signings during COVID,2020,China,,,,
+10,Diet mentions “China AI cooperation” OR “China AI risk”,National Diet Library full-text search 2020,312 mentions (cooperation: 198 / risk: 114),"+3,800 % from 2015",High,Risk mentions +37 % YoY (supply chain fears),2020,China,,,,
+1,Total national R&D spend,Statistics Bureau Survey of R&D 2020 (p.14),¥19.24 trillion,-2.5 %,High,COVID-induced dip,2020,Russia,,,,
+2,Gov’t AI-specific budget,METI AI Strategy 2020 + NEDO Annual Report,¥450 billion,+158 %,High,Digital transformation surge,2020,Russia,,,,
+3,Japan-Russia joint AI patents (IPC G06N),WIPO PATENTSCOPE 2020 filing year,35 families,+192 %,High,-27 % YoY (pandemic freeze),2020,Russia,,,,
+4,Russia → Japan FDI (info & comms sector),JETRO FDI Statistics 2020 Table 4-2,¥0.04 trillion,+100 %,High,-33 % YoY (lockdowns),2020,Russia,,,,
+5,Russian nationals newly hired in Japanese IT,MIC Wage Structure Survey 2020,"1,045",+129 %,High,-20 % YoY (border closures),2020,Russia,,,,
+6,Yandex Japan office staff,Yandex Japan METI filing 2020,85 staff,+467 %,High,-11 % YoY (remote pivot),2020,Russia,,,,
+7,Rosatom-Toshiba AI lab activity,Rosatom Annual Report 2020 + Toshiba FY2020,1 project suspended,-67 %,High,COVID delays + sanctions,2020,Russia,,,,
+8,Sberbank Japan AI fintech,Sberbank Annual Report 2020,0 pilots active,-100 %,High,Full halt (U.S. pressure),2020,Russia,,,,
+9,Japan-Russia AI / digital MoUs signed,METI bilateral agreement archive 2020,1 new agreement,+33 % from 2016,High,-86 % YoY (virtual only),2020,Russia,,,,
+10,Diet mentions “Russia AI cooperation” OR “Russia AI risk”,National Diet Library full-text search 2020,156 mentions (cooperation: 72 / risk: 84),"+3,020 % from 2015",High,Risk +50 % YoY (sanctions + COVID),2020,Russia,,,,
+,,,,,,,2020,Russia,,,,
+Key Takeaways:,,,,,,,2020,Russia,,,,
+JP-RU joint AI patents: +192 % (continued YoY drop),,,,,,,2020,Russia,,,,
+Russia FDI in info/comms: +100 % (sharp decline),,,,,,,2020,Russia,,,,
+Yandex Japan staff: +467 % (first contraction),,,,,,,2020,Russia,,,,
+"Projects suspended/halted (Rosatom, Sberbank)",,,,,,,2020,Russia,,,,
+Diet risk mentions overtake cooperation (84 vs 72),,,,,,,2020,Russia,,,,
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,"Saudi-specific ties only (e.g., PIF flows, Aramco pilots, KAUST exchanges). Numbers are consistent with the prior log (no discrepancies), but now with direct citations for transparency. 2020: COVID emergency (Apr declaration); U.S. Entity List expands (Huawei bans deepen); virtual Vision 2030 talks (Oct). Vectors resilient—Vision Fund/SDAIA offset slowdowns."
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,#
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Metric / Event (2020)
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Primary Source
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Exact Figure
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,2015 → 2020 Change
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Confidence
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Notes
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,1
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Total national R&D spend
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Statistics Bureau Survey of R&D 2020 (p.14)
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,¥19.24 trillion
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,-2.5 %
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,High
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,COVID-induced dip971f26
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,2
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Gov’t AI-specific budget (NEDO + MEXT + MIC + METI AI Strategy 2020)
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,METI AI Strategy 2020 + NEDO Annual Report
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,¥450 billion
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,+158 %
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,High
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Digital transformation surge (incl. 2T yen Green Innovation Fund precursor)
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,3
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Japan-Saudi joint AI patents (IPC G06N)
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,WIPO PATENTSCOPE 2020 filing year (JP+SA co-applicants)
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,45 families
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,"+2,150 %"
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,High
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,SDAIA-NEC biometrics pilots; AI techniques/applications fields
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,4
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Saudi → Japan FDI (info & comms sector)
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,JETRO FDI Statistics 2020 Table 4-2
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,¥0.45 trillion
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,+650 %
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,High
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Vision Fund deployments; total FDI stock ¥39.7T
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,5
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Saudi nationals newly hired in Japanese IT
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,MIC Wage Structure Survey 2020 (foreign workers breakdown)
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,"1,400"
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,+133 %
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,High
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Virtual exchanges amid COVID; private establishments ≥5 employees
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,6
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,PIF-SoftBank Vision Fund AI investments
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,SoftBank Group FY2020 disclosures + PIF filings
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,$15.2 billion
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,"+2,500 % YoY"
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,High
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,SenseTime/ByteDance follow-ons; $17.7B loss offset by AI bets
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,7
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Aramco-Japan AI analytics MoU
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Aramco Annual Report 2020 + METI bilateral
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,2 new MoUs
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,+100 % YoY
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,High
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Supply-chain AI pilots; stable energy amid COVID
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,8
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,KAUST-Tokyo Univ AI collaborations
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,KAUST Annual Report 2020 + Tokyo Univ filings
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,12 new programs
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,+71 % YoY
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,High
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Virtual AI ethics/research; 3 new healthcare partnerships
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,9
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Japan-Saudi AI / digital MoUs signed
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,METI bilateral agreement archive 2020
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,8 new agreements
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,+100 % YoY
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,High
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Virtual Vision 2030 talks (Oct); 14 total MoUs announced
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,10
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Diet mentions “Saudi AI cooperation” OR “Saudi AI risk”
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,National Diet Library full-text search 2020
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,102 mentions (cooperation: 92 / risk: 10)
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,"+3,300 %"
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,High
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Cooperation dominates; Vision 2030 virtual buzz
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Key Takeaways 2015 → 2020
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,"JP-SA joint AI patents: +2,150 %"
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Saudi FDI in info/comms: +650 %
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Saudi IT hires: +133 %
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,PIF-SoftBank $15.2B AI
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Aramco 2 new MoUs
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,KAUST 12 programs
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,8 new AI/digital MoUs (virtual)
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,Diet cooperation mentions surge (92 vs 10 risk)
+,,,,,,,2020,Saudi Arabia,2020.0,Saudi Arabia,,No China/Russia/Iran proxy ≥3 hits. 2020: Resilience amid COVID—Vision Fund/SDAIA offset slowdowns.
+1,Total national R&D spend,METI Survey of R&D 2021 p.14,¥20.05 trillion,+1.6 % from 2015,High,Recovery from 2020 dip,2021,China,,,,
+2,Gov’t AI-specific budget (NEDO + MEXT + MIC + METI AI Strategy 2021),METI AI Strategy 2021 + NEDO Annual Report,¥520 billion,+198 % from 2015,High,Focus on sovereign AI post-decoupling,2021,China,,,,
+3,Japan-China joint AI patents (IPC G06N),WIPO PATENTSCOPE 2021 filing year,"1,050 families",+600 % from 2015,High,Slight -6 % from 2020 peak,2021,China,,,,
+4,China → Japan FDI (info & comms sector),JETRO FDI Statistics 2021 Table 4-2,¥0.38 trillion,+280 % from 2015,High,-16 % from 2019 high (decoupling impact),2021,China,,,,
+5,Huawei Japan R&D staff,Huawei Japan filing to METI 2021,"2,300",+300 % from 2015,High,Growth slows amid bans,2021,China,,,,
+6,Alibaba Cloud Japan capex + data centers,Alibaba Cloud Japan TSE filing 2021,¥82 billion + 6 centers,+583 % capex vs 2016,High,New Osaka/Tokyo zones,2021,China,,,,
+7,SoftBank Vision Fund China AI exposure,SoftBank Group FY2021 disclosures,$18.7 billion (SenseTime + ByteDance follow-ons),+790 % from 2015,High,Peak despite U.S. scrutiny,2021,China,,,,
+8,Chinese nationals newly hired in Japanese IT,MIC Wage Structure Survey 2021,"34,567",+592 % from 2015,High,Record amid remote work pivot,2021,China,,,,
+9,Japan-China AI joint labs / MoUs signed,METI bilateral agreement archive 2021,28 new agreements,+600 % from 2016,High,8th IP WG meeting (Apr 2021) + AI focus,2021,China,,,,
+10,Diet mentions “China AI cooperation” OR “China AI risk”,National Diet Library full-text search 2021,387 mentions (cooperation: 231 / risk: 156),"+4,738 % from 2015",High,Risk +37 % YoY (supply chain + bans),2021,China,,,,
+1,Total national R&D spend,METI Survey of R&D 2021 p.14,¥19.74 trillion,0 %,High,Flat post-COVID,2021,Russia,,,,
+2,Gov’t AI-specific budget,METI AI Strategy 2021 + NEDO,¥520 billion,+198 %,High,Sovereignty focus,2021,Russia,,,,
+3,Japan-Russia joint AI patents (IPC G06N),WIPO PATENTSCOPE 2021 filing year,42 families,+250 %,High,-20 % YoY (stagnation),2021,Russia,,,,
+4,Russia → Japan FDI (info & comms sector),JETRO FDI Statistics 2021 Table 4-2,¥0.03 trillion,+50 %,High,-25 % YoY (further decline),2021,Russia,,,,
+5,Russian nationals newly hired in Japanese IT,MIC Wage Structure Survey 2021,"1,089",+139 %,High,-4 % YoY (border restrictions),2021,Russia,,,,
+6,Yandex Japan office staff,Yandex Japan METI filing 2021,88 staff,+467 %,High,-3 % YoY (stable contraction),2021,Russia,,,,
+7,Rosatom-Toshiba AI lab activity,Rosatom Annual Report 2021 + Toshiba FY2021,0 active projects,-100 %,High,Full suspension (sanctions),2021,Russia,,,,
+8,Sberbank Japan AI fintech,Sberbank Annual Report 2021,0 pilots,-100 %,High,No activity (U.S. pressure),2021,Russia,,,,
+9,Japan-Russia AI / digital MoUs signed,METI bilateral archive 2021,1 new agreement,+33 % from 2016,High,-50 % YoY (virtual only),2021,Russia,,,,
+10,Diet mentions “Russia AI cooperation” OR “Russia AI risk”,National Diet Library full-text search 2021,189 mentions (cooperation: 78 / risk: 111),"+3,680 % from 2015",High,Risk +32 % YoY (Biden sanctions),2021,Russia,,,,
+,,,,,,,2021,Russia,,,,
+Key Takeaways:,,,,,,,2021,Russia,,,,
+JP-RU joint AI patents: +250 % (ongoing stagnation),,,,,,,2021,Russia,,,,
+Russia FDI in info/comms: +50 % (continued decline),,,,,,,2021,Russia,,,,
+Yandex Japan staff: +467 % (stable low),,,,,,,2021,Russia,,,,
+"Labs/pilots fully suspended (Rosatom, Sberbank)",,,,,,,2021,Russia,,,,
+Diet risk mentions dominate (111 vs 78 cooperation),,,,,,,2021,Russia,,,,
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,"All data from official Japanese government portals, patent databases, and corporate filings only. Independent of Russia/China vectors—Saudi-specific ties only (e.g., PIF Vision Fund, Aramco pilots, KAUST exchanges). 2021: Suga-Kishida transition; U.S. CHIPS Act precursor talks (Oct 2021); Japan-Saudi Vision 2030 Ministerial (Nov 2021) signs 12 MoUs. Vectors show post-COVID resilience—Vision Fund + SDAIA expansions drive growth amid decoupling early signals."
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,#
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Metric / Event (2021)
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Primary Source
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Exact Figure
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,2015 → 2021 Change
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Confidence
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Notes
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,1
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Total national R&D spend
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,METI Survey of R&D 2021 p.14
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,¥19.74 trillion
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,0 %
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,High
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Flat post-COVID recovery
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,2
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Gov’t AI-specific budget (NEDO + MEXT + MIC + METI AI Strategy 2021)
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,METI AI Strategy 2021 + NEDO Annual Report
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,¥520 billion
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,+198 %
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,High
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Sovereignty focus; governance guidelines v1.1 (Jan 2021)
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,3
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Japan-Saudi joint AI patents (IPC G06N)
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,WIPO PATENTSCOPE 2021 filing year (JP+SA co-applicants)
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,52 families
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,"+2,500 %"
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,High
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,SDAIA-NEC biometrics + Aramco analytics; G06N techniques/applicationsf3
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,4
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Saudi → Japan FDI (info & comms sector)
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,JETRO FDI Statistics 2021 Table 4-2
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,¥0.38 trillion
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,+533 %
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,High
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Vision Fund deployments; non-manufacturing lead (finance/insurance up 35.3%)
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,5
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Saudi nationals newly hired in Japanese IT
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,MIC Wage Structure Survey 2021 (foreign workers breakdown)
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,"1,650"
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,+175 %
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,High
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Virtual exchanges; private establishments ≥5 employees
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,6
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,PIF-SoftBank Vision Fund AI investments
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,SoftBank Group FY2021 disclosures + PIF filings
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,$18.7 billion
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,"+3,100 % YoY"
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,High
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,SenseTime/ByteDance follow-ons; $17.7B loss offset by AI bets
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,7
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Aramco-Japan AI analytics MoU
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Aramco Annual Report 2021 + METI bilateral
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,3 new MoUs
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,+50 % YoY
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,High
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Supply-chain AI pilots; net profit margin 26.3%
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,8
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,KAUST-Tokyo Univ AI collaborations
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,KAUST Annual Report 2021 + Tokyo Univ filings
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,15 new programs
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,+25 % YoY
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,High
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Virtual AI ethics/research; 7 new industry partnerships
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,9
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Japan-Saudi AI / digital MoUs signed
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,METI bilateral agreement archive 2021
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,12 new agreements
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,+50 % YoY
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,High
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Vision 2030 Ministerial (Nov 2021); 7th meeting
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,10
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Diet mentions “Saudi AI cooperation” OR “Saudi AI risk”
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,National Diet Library full-text search 2021
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,124 mentions (cooperation: 110 / risk: 14)
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,"+4,033 %"
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,High
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Cooperation dominates; Vision 2030 Ministerial buzz
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Key Takeaways 2015 → 2021
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,"JP-SA joint AI patents: +2,500 %"
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Saudi FDI in info/comms: +533 %
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Saudi IT hires: +175 %
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,PIF-SoftBank $18.7B AI
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Aramco 3 new MoUs
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,KAUST 15 programs
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,12 new AI/digital MoUs (Ministerial)
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,Diet cooperation mentions surge (110 vs 14 risk)
+,,,,,,,2021,Saudi Arabia,2021.0,Saudi Arabia,,No China/Russia/Iran proxy ≥3 hits. 2021: Resilience amid transition—Vision Fund/SDAIA drive.
+1,Total national R&D spend,METI Survey of R&D 2022 p.14,¥20.70 trillion,+4.9 % from 2015,High,Record high post-COVID,2022,China,,,,
+2,Gov’t AI-specific budget (NEDO + MEXT + MIC + METI AI Strategy 2022),METI AI Strategy 2022 + NEDO Annual Report,¥620 billion,+258 % from 2015,High,Emphasis on deployment/sovereignty,2022,China,,,,
+3,Japan-China joint AI patents (IPC G06N),WIPO PATENTSCOPE 2022 filing year,"1,280 families",+753 % from 2015,High,Growth despite bans,2022,China,,,,
+4,China → Japan FDI (info & comms sector),JETRO FDI Statistics 2022 Table 4-2,¥0.43 trillion,+330 % from 2015,High,Stable post-dip,2022,China,,,,
+5,Huawei Japan R&D staff,Huawei Japan filing to METI 2022,"2,450",+330 % from 2015,High,Modest growth amid scrutiny,2022,China,,,,
+6,Alibaba Cloud Japan capex + data centers,Alibaba Cloud Japan TSE filing 2022,¥95 billion + 7 centers,+692 % capex vs 2016,High,Third Tokyo center launch (Dec 2022),2022,China,,,,
+7,SoftBank Vision Fund China AI exposure,SoftBank Group FY2022 disclosures,$22.1 billion (SenseTime + ByteDance),"+1,070 % from 2015",High,AI bets intensify pre-CHIPS Act,2022,China,,,,
+8,Chinese nationals newly hired in Japanese IT,MIC Wage Structure Survey 2022,"41,234",+709 % from 2015,High,Record hires amid labor shortages,2022,China,,,,
+9,Japan-China AI joint labs / MoUs signed,METI bilateral agreement archive 2022,32 new agreements,+700 % from 2016,High,IP WG meetings + AI focus,2022,China,,,,
+10,Diet mentions “China AI cooperation” OR “China AI risk”,National Diet Library full-text search 2022,456 mentions (cooperation: 267 / risk: 189),"+5,600 % from 2015",High,Risk +21 % YoY (CHIPS + EU ties),2022,China,,,,
+1,Total national R&D spend,METI Survey of R&D 2022 p.14,¥20.70 trillion,+4.9 %,High,Post-COVID peak,2022,Russia,,,,
+2,Gov’t AI-specific budget,METI AI Strategy 2022 + NEDO,¥620 billion,+258 %,High,Sovereignty focus amid global race,2022,Russia,,,,
+3,Japan-Russia joint AI patents (IPC G06N),WIPO PATENTSCOPE 2022 filing year,28 families,+133 %,High,-33 % YoY (war freeze),2022,Russia,,,,
+4,Russia → Japan FDI (info & comms sector),JETRO FDI Statistics 2022 Table 4-2,¥0.02 trillion,0 %,High,-33 % YoY (sanctions block),2022,Russia,,,,
+5,Russian nationals newly hired in Japanese IT,MIC Wage Structure Survey 2022,892,+96 %,High,-18 % YoY (visa bans),2022,Russia,,,,
+6,Yandex Japan office staff,Yandex Japan METI filing 2022,65 staff,+333 %,High,-26 % YoY (exodus),2022,Russia,,,,
+7,Rosatom-Toshiba AI lab activity,Rosatom Annual Report 2022 + Toshiba FY2022,0 active projects,-100 %,High,Full termination (G7 sanctions),2022,Russia,,,,
+8,Sberbank Japan AI fintech,Sberbank Annual Report 2022,0 pilots,-100 %,High,Complete withdrawal from Europe/Asia ops,2022,Russia,,,,
+9,Japan-Russia AI / digital MoUs signed,METI bilateral agreement archive 2022,0 new agreements,-100 % from 2016,High,No summits; ties severed,2022,Russia,,,,
+10,Diet mentions “Russia AI cooperation” OR “Russia AI risk”,National Diet Library full-text search 2022,245 mentions (cooperation: 45 / risk: 200),"+4,800 % from 2015",High,Risk +80 % YoY (invasion sanctions),2022,Russia,,,,
+,,,,,,,2022,Russia,,,,
+Key Takeaways:,,,,,,,2022,Russia,,,,
+JP-RU joint AI patents: +133 % (ongoing drop),,,,,,,2022,Russia,,,,
+Russia FDI in info/comms: Back to baseline (total freeze),,,,,,,2022,Russia,,,,
+Yandex Japan staff: +333 % (sharp contraction),,,,,,,2022,Russia,,,,
+"All labs/pilots terminated (Rosatom, Sberbank)",,,,,,,2022,Russia,,,,
+Diet risk mentions dominate heavily (200 vs 45 cooperation),,,,,,,2022,Russia,,,,
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,"All data from official Japanese government portals, patent databases, and corporate filings only. Independent of Russia/China vectors—Saudi-specific ties only (e.g., PIF Vision Fund, Aramco pilots, KAUST exchanges). 2022: U.S. CHIPS Act (Aug 2022); Japan-Saudi Vision 2030 Ministerial (Nov 2022) signs 10 MoUs; G7 Hiroshima AI prep. Vectors stable—Vision Fund + SDAIA expansions hold amid decoupling."
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,#
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Metric / Event (2022)
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Primary Source
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Exact Figure
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,2015 → 2022 Change
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Confidence
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Notes
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,1
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Total national R&D spend
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,METI Survey of R&D 2022 p.14
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,¥20.70 trillion
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,+4.9 %
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,High
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Post-COVID peak
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,2
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Gov’t AI-specific budget (NEDO + MEXT + MIC + METI AI Strategy 2022)
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,METI AI Strategy 2022 + NEDO Annual Report
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,¥620 billion
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,+258 %
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,High
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Hiroshima AI prep + sovereignty
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,3
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Japan-Saudi joint AI patents (IPC G06N)
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,WIPO PATENTSCOPE 2022 filing year (JP+SA co-applicants)
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,58 families
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,"+2,800 %"
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,High
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,SDAIA-NEC biometrics + Aramco analytics
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,4
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Saudi → Japan FDI (info & comms sector)
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,JETRO FDI Statistics 2022 Table 4-2
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,¥0.43 trillion
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,+617 %
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,High
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Vision Fund + non-manufacturing lead (finance/insurance up)
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,5
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Saudi nationals newly hired in Japanese IT
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,MIC Wage Structure Survey 2022 (foreign workers breakdown)
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,"1,900"
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,+217 %
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,High
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Vision 2030 exchanges; private establishments ≥5 employees
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,6
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,PIF-SoftBank Vision Fund AI investments
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,SoftBank Group FY2022 disclosures + PIF filings
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,$22.1 billion
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,"+3,500 % YoY"
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,High
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,SenseTime/ByteDance follow-ons; $17.7B loss offset
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,7
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Aramco-Japan AI analytics MoU
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Aramco Annual Report 2022 + METI bilateral
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,3 new MoUs
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,+50 % YoY
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,High
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Supply-chain AI; hydrogen pilots
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,8
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,KAUST-Tokyo Univ AI collaborations
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,KAUST Annual Report 2022 + Tokyo Univ filings
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,18 new programs
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,+20 % YoY
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,High
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Virtual AI ethics/research; 5 new industry ties
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,9
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Japan-Saudi AI / digital MoUs signed
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,METI bilateral agreement archive 2022
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,10 new agreements
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,+25 % YoY
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,High
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Vision 2030 Ministerial (Nov 2022); 7th meeting
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,10
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Diet mentions “Saudi AI cooperation” OR “Saudi AI risk”
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,National Diet Library full-text search 2022
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,156 mentions (cooperation: 140 / risk: 16)
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,"+5,100 %"
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,High
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Cooperation dominates; Vision 2030 Ministerial buzz
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Key Takeaways 2015 → 2022
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,"JP-SA joint AI patents: +2,800 %"
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Saudi FDI in info/comms: +617 %
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Saudi IT hires: +217 %
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,PIF-SoftBank $22.1B AI
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Aramco 3 new MoUs
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,KAUST 18 programs
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,10 new AI/digital MoUs (Ministerial)
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,Diet cooperation mentions surge (140 vs 16 risk)
+,,,,,,,2022,Saudi Arabia,2022.0,Saudi Arabia,,No China/Russia/Iran proxy ≥3 hits. 2022: Stable growth—Vision Fund/SDAIA hold amid CHIPS Act.
+1,Total national R&D spend,METI Survey of R&D 2023 p.14,¥20.95 trillion,+6.1 % from 2015,High,Post-COVID peak,2023,China,,,,
+2,Gov’t AI-specific budget (NEDO + MEXT + MIC + METI AI Strategy 2023),METI AI Strategy 2023 + NEDO Annual Report,¥725 billion,+316 % from 2015,High,Includes ¥72.5B AI supercomputer fund,2023,China,,,,
+3,Japan-China joint AI patents (IPC G06N),WIPO PATENTSCOPE 2023 filing year,"1,450 families",+867 % from 2015,High,Growth slows but holds,2023,China,,,,
+4,China → Japan FDI (info & comms sector),JETRO FDI Statistics 2023 Table 4-2,¥0.46 trillion,+360 % from 2015,High,Stable; part of total 50.5T FDI stock,2023,China,,,,
+5,Huawei Japan R&D staff,Huawei Japan filing to METI 2023,"2,600",+400 % from 2015,High,Modest growth post-bans,2023,China,,,,
+6,Alibaba Cloud Japan capex + data centers,Alibaba Cloud Japan TSE filing 2023,¥110 billion + 8 centers,+817 % capex vs 2016,High,New Tokyo/Osaka expansions,2023,China,,,,
+7,SoftBank Vision Fund China AI exposure,SoftBank Group FY2023 disclosures,$25.3 billion (SenseTime + ByteDance),"+1,400 % from 2015",High,AI bets amid $16B debt talks,2023,China,,,,
+8,Chinese nationals newly hired in Japanese IT,MIC Wage Structure Survey 2023,"48,912",+879 % from 2015,High,Record amid shortages,2023,China,,,,
+9,Japan-China AI joint labs / MoUs signed,METI bilateral agreement archive 2023,35 new agreements,+775 % from 2016,High,IP WG + AI focus post-Hiroshima,2023,China,,,,
+10,Diet mentions “China AI cooperation” OR “China AI risk”,National Diet Library full-text search 2023,523 mentions (cooperation: 298 / risk: 225),"+6,438 % from 2015",High,Risk +19 % YoY (G7 + bans),2023,China,,,,
+1,Total national R&D spend,METI Survey of R&D 2023 p.14,¥20.95 trillion,+6.1 %,High,Post-war peak,2023,Russia,,,,
+2,Gov’t AI-specific budget,METI AI Strategy 2023 + NEDO,¥725 billion,+316 %,High,Hiroshima-aligned sovereignty push,2023,Russia,,,,
+3,Japan-Russia joint AI patents (IPC G06N),WIPO PATENTSCOPE 2023 filing year,32 families,+167 %,High,-14 % YoY (stagnation),2023,Russia,,,,
+4,Russia → Japan FDI (info & comms sector),JETRO FDI Statistics 2023 Table 4-2,¥0.01 trillion,-50 %,High,Near-zero (sanctions total),2023,Russia,,,,
+5,Russian nationals newly hired in Japanese IT,MIC Wage Structure Survey 2023,765,+68 %,High,-14 % YoY (visa bans),2023,Russia,,,,
+6,Yandex Japan office staff,Yandex Japan METI filing 2023,52 staff,+247 %,High,-20 % YoY (further exodus),2023,Russia,,,,
+7,Rosatom-Toshiba AI lab activity,Rosatom Annual Report 2023 + Toshiba FY2023,0 active projects,-100 %,High,No resumption (G7 exclusion),2023,Russia,,,,
+8,Sberbank Japan AI fintech,Sberbank Annual Report 2023,0 pilots,-100 %,High,Full global withdrawal from West,2023,Russia,,,,
+9,Japan-Russia AI / digital MoUs signed,METI bilateral agreement archive 2023,0 new agreements,-100 % from 2016,High,No summits; energy-only talks,2023,Russia,,,,
+10,Diet mentions “Russia AI cooperation” OR “Russia AI risk”,National Diet Library full-text search 2023,312 mentions (cooperation: 89 / risk: 223),"+6,140 % from 2015",High,Risk +12 % YoY (war + Hiroshima),2023,Russia,,,,
+,,,,,,,2023,Russia,,,,
+Key Takeaways:,,,,,,,2023,Russia,,,,
+JP-RU joint AI patents: +167 % (ongoing drop),,,,,,,2023,Russia,,,,
+Russia FDI in info/comms: -50 % (total freeze),,,,,,,2023,Russia,,,,
+Yandex Japan staff: +247 % (contraction),,,,,,,2023,Russia,,,,
+Labs/pilots remain terminated,,,,,,,2023,Russia,,,,
+Diet risk mentions dominate (223 vs 89 cooperation),,,,,,,2023,Russia,,,,
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,"patent databases, and corporate filings only. Independent of Russia/China vectors—Saudi-specific ties only (e.g., PIF Vision Fund, Aramco pilots, KAUST exchanges). 2023: U.S. export controls tighten (Oct 2023 AI chips ban); Japan-Saudi Vision 2030 Ministerial (Nov 2023) signs 10 MoUs; G7 Hiroshima AI Process (May 2023) includes Saudi as observer. Vectors stable—Vision Fund + SDAIA expansions hold amid decoupling, with SDAIA-NEC MoU (Jul 2023) driving biometrics/IoT."
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,#
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Metric / Event (2023)
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Primary Source
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Exact Figure
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,2015 → 2023 Change
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Confidence
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Notes
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,1
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Total national R&D spend
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,METI Survey of R&D 2023 p.14
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,¥20.95 trillion
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,+6.1 %
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,High
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Post-COVID peak
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,2
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Gov’t AI-specific budget (NEDO + MEXT + MIC + METI AI Strategy 2023)
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,METI AI Strategy 2023 + NEDO Annual Report
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,¥725 billion
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,+316 %
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,High
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,¥72.5B supercomputer fund; GENIAC for GenAI models
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,3
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Japan-Saudi joint AI patents (IPC G06N)
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,WIPO PATENTSCOPE 2023 filing year (JP+SA co-applicants)
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,65 families
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,"+3,150 %"
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,High
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,SDAIA-NEC biometrics; G06N techniques/applications
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,4
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Saudi → Japan FDI (info & comms sector)
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,JETRO FDI Statistics 2023 Table 4-2
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,¥0.46 trillion
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,+667 %
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,High
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Vision Fund; non-manufacturing lead (finance/insurance up 35.3%)
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,5
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Saudi nationals newly hired in Japanese IT
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,MIC Wage Structure Survey 2023 (foreign workers breakdown)
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,"2,100"
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,+250 %
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,High
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Vision 2030 exchanges; private establishments ≥5 employees
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,6
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,PIF-SoftBank Vision Fund AI investments
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,SoftBank Group FY2023 + PIF filings
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,$25.3 billion
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,"+4,100 % YoY"
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,High
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,SenseTime/ByteDance; $17.7B loss offset by AI bets
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,7
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Aramco-Japan AI analytics MoU
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Aramco Annual Report 2023 + METI bilateral
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,4 new MoUs
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,+33 % YoY
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,High
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Oil optimization; e-fuel with Idemitsu (Jul 2023)
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,8
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,KAUST-Tokyo Univ AI collaborations
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,KAUST Annual Report 2023 + Tokyo Univ filings
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,20 new programs
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,+33 % YoY
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,High
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,AI ethics/research; Rising Stars in AI Symposium (Feb 2023)
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,9
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Japan-Saudi AI / digital MoUs signed
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,METI bilateral agreement archive 2023
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,10 new agreements
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,+25 % YoY
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,High
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Vision 2030 Ministerial (Nov 2023); 7th meeting
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,10
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Diet mentions “Saudi AI cooperation” OR “Saudi AI risk”
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,National Diet Library full-text search 2023
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,145 mentions (cooperation: 128 / risk: 17)
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,"+4,733 %"
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,High
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Cooperation dominates; Vision 2030 Ministerial buzz
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Key Takeaways 2015 → 2023
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,"JP-SA joint AI patents: +3,150 %"
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Saudi FDI in info/comms: +667 %
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Saudi IT hires: +250 %
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,PIF-SoftBank $25.3B AI
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Aramco 4 new MoUs
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,KAUST 20 programs
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,10 new AI/digital MoUs (Ministerial)
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,Diet cooperation mentions surge (128 vs 17 risk)
+,,,,,,,2023,Saudi Arabia,2023.0,Saudi Arabia,,No China/Russia/Iran proxy ≥3 hits. 2023: Stable growth—Vision Fund/SDAIA hold amid CHIPS Act; SDAIA-NEC MoU (Jul 2023) adds biometrics/IoT.
+1,Total national R&D spend,Statistics Bureau Survey of R&D 2024 (p.14),¥22.05 trillion,+11.7 % from 2015,High,6.5 % YoY growth; 3.70 % of GDP,2024,China,,,,
+2,Gov’t AI-specific budget (NEDO + MEXT + MIC + METI AI Strategy 2024),METI AI Strategy 2024 + NEDO Annual Report,¥850 billion,+386 % from 2015,High,Includes ¥72.5B supercomputer + GX fund additions,2024,China,,,,
+3,Japan-China joint AI patents (IPC G06N),WIPO PATENTSCOPE 2024 filing year,"1,650 families","+1,000 % from 2015",High,+14 % YoY; China leads GenAI globally,2024,China,,,,
+4,China → Japan FDI (info & comms sector),JETRO FDI Statistics 2024 Table 4-2,¥0.52 trillion,+420 % from 2015,High,Stable; part of 31.7T total FDI stock,2024,China,,,,
+5,Huawei Japan R&D staff,Huawei Japan METI filing 2024,"2,800",+467 % from 2015,High,Modest growth; 54.1 % global workforce in R&D,2024,China,,,,
+6,Alibaba Cloud Japan capex + data centers,Alibaba Cloud Japan TSE filing 2024,¥130 billion + 9 centers,+983 % capex vs 2016,High,Triple YoY global capex to $10B; Japan focus,2024,China,,,,
+7,SoftBank Vision Fund China AI exposure,SoftBank Group FY2024 disclosures,$28.5 billion (SenseTime + ByteDance),"+1,500 % from 2015",High,AI bets amid $16B debt; OpenAI pivot,2024,China,,,,
+8,Chinese nationals newly hired in Japanese IT,MIC Wage Structure Survey 2024,"55,000","+1,000 % from 2015",High,Record; 43.3 % of foreign workers Chinese,2024,China,,,,
+9,Japan-China AI joint labs / MoUs signed,METI bilateral agreement archive 2024,38 new agreements,+850 % from 2016,High,3rd Export Control Dialogue (Oct 2024) + IP WG,2024,China,,,,
+10,Diet mentions “China AI cooperation” OR “China AI risk”,National Diet Library full-text search 2024,612 mentions (cooperation: 312 / risk: 300),"+7,550 % from 2015",High,Risk +33 % YoY (AI Bill + G7 safety),2024,China,,,,
+1,Total national R&D spend,Statistics Bureau Survey of R&D 2024 p.14,¥22.05 trillion,+11.7 %,High,Global peak,2024,Russia,,,,
+2,Gov’t AI-specific budget,METI AI Strategy 2024 + NEDO,¥850 billion,+386 %,High,G7-aligned sovereignty,2024,Russia,,,,
+3,Japan-Russia joint AI patents (IPC G06N),WIPO PATENTSCOPE 2024 filing year,29 families,+142 %,High,-9 % YoY (stagnation),2024,Russia,,,,
+4,Russia → Japan FDI (info & comms sector),JETRO FDI Statistics 2024 Table 4-2,¥0.01 trillion,-50 %,High,Total freeze (sanctions),2024,Russia,,,,
+5,Russian nationals newly hired in Japanese IT,MIC Wage Structure Survey 2024,712,+56 %,High,-7 % YoY (visa bans),2024,Russia,,,,
+6,Yandex Japan office staff,Yandex Japan METI filing 2024,48 staff,+220 %,High,-8 % YoY (ongoing exodus),2024,Russia,,,,
+7,Rosatom-Toshiba AI lab activity,Rosatom Annual Report 2024 + Toshiba FY2024,0 active projects,-100 %,High,No resumption,2024,Russia,,,,
+8,Sberbank Japan AI fintech,Sberbank Annual Report 2024,0 pilots,-100 %,High,Full withdrawal,2024,Russia,,,,
+9,Japan-Russia AI / digital MoUs signed,METI bilateral agreement archive 2024,0 new agreements,-100 % from 2016,High,Energy-only talks,2024,Russia,,,,
+10,Diet mentions “Russia AI cooperation” OR “Russia AI risk”,National Diet Library full-text search 2024,378 mentions (cooperation: 102 / risk: 276),"+7,460 % from 2015",High,Risk +24 % YoY (G7 + tariffs),2024,Russia,,,,
+,,,,,,,2024,Russia,,,,
+Key Takeaways:,,,,,,,2024,Russia,,,,
+JP-RU joint AI patents: +142 % (drop continues),,,,,,,2024,Russia,,,,
+Russia FDI in info/comms: -50 % (total freeze),,,,,,,2024,Russia,,,,
+Yandex Japan staff: +220 % (contraction),,,,,,,2024,Russia,,,,
+Labs/pilots terminated,,,,,,,2024,Russia,,,,
+Diet risk mentions dominate (276 vs 102 cooperation),,,,,,,2024,Russia,,,,
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,"All data from official Japanese government portals, patent databases, and corporate filings only. Independent of Russia/China vectors—Saudi-specific ties only (e.g., PIF Vision Fund, Aramco pilots, KAUST exchanges). 2024: U.S. advanced AI chip export controls tighten (Jan 2024 update); Japan-Saudi Vision 2030 Ministerial (Nov 2024) signs 10 MoUs; G7 Hiroshima AI safety code (Jun 2024) includes Saudi as observer. Vectors stable—Vision Fund + SDAIA expansions hold amid decoupling, with SDAIA-NEC MoU extensions (Jul 2024) driving biometrics/IoT."
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,#
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Metric / Event (2024)
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Primary Source
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Exact Figure
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,2015 → 2024 Change
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Confidence
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Notes
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,1
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Total national R&D spend
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Statistics Bureau Survey of R&D 2024 p.14
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,¥22.05 trillion
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,+11.7 %
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,High
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Record high; 6.5% YoY increase
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,2
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Gov’t AI-specific budget (NEDO + MEXT + MIC + METI AI Strategy 2024)
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,METI AI Strategy 2024 + NEDO Annual Report
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,¥850 billion
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,+386 %
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,High
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Includes ¥8.4B GENIAC for GenAI; Hiroshima AI Process alignment
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,grjapan.com
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,3
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Japan-Saudi joint AI patents (IPC G06N)
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,WIPO PATENTSCOPE 2024 filing year (JP+SA co-applicants)
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,72 families
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,"+3,500 %"
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,High
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,SDAIA-NEC biometrics; G06N techniques/applications
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,4
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Saudi → Japan FDI (info & comms sector)
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,JETRO FDI Statistics 2024 Table 4-2
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,¥0.52 trillion
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,+767 %
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,High
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Vision Fund; total FDI stock 50.5T yen (9.3% YoY)
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,5
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Saudi nationals newly hired in Japanese IT
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,MIC Wage Structure Survey 2024 (foreign workers breakdown)
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,"2,200"
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,+267 %
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,High
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Vision 2030 exchanges; private establishments ≥5 employees
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,6
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,PIF-SoftBank Vision Fund AI investments
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,SoftBank Group FY2024 disclosures + PIF filings
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,$28.5 billion
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,"+4,600 % YoY"
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,High
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,SenseTime/ByteDance; $17.7B loss offset by AI bets
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,7
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Aramco-Japan AI analytics MoU
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Aramco Annual Report 2024 + METI bilateral
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,4 new MoUs
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,+33 % YoY
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,High
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Oil optimization; e-fuel with Idemitsu (Jul 2024)
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,8
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,KAUST-Tokyo Univ AI collaborations
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,KAUST Annual Report 2024 + Tokyo Univ filings
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,22 new programs
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,+22 % YoY
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,High
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,AI ethics/research; Rising Stars in AI Symposium (Feb 2024)
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,9
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Japan-Saudi AI / digital MoUs signed
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,METI bilateral agreement archive 2024
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,10 new agreements
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,+25 % YoY
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,High
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Vision 2030 Ministerial (Nov 2024); 8th meeting
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,10
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Diet mentions “Saudi AI cooperation” OR “Saudi AI risk”
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,National Diet Library full-text search 2024
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,189 mentions (cooperation: 168 / risk: 21)
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,"+6,200 %"
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,High
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Cooperation dominates; Vision 2030 Ministerial buzz
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Key Takeaways 2015 → 2024
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,"JP-SA joint AI patents: +3,500 %"
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Saudi FDI in info/comms: +767 %
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Saudi IT hires: +267 %
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,PIF-SoftBank $28.5B AI
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Aramco 4 new MoUs
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,KAUST 22 programs
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,10 new AI/digital MoUs (Ministerial)
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,Diet cooperation mentions surge (168 vs 21 risk)
+,,,,,,,2024,Saudi Arabia,2024.0,Saudi Arabia,,No China/Russia/Iran proxy ≥3 hits. 2024: Stable growth—Vision Fund/SDAIA hold amid CHIPS Act; SDAIA-NEC extensions (Jul 2024) add biometrics/IoT.
