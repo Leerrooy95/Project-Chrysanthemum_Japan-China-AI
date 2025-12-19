@@ -205,7 +205,7 @@ Primary sources: METI, WIPO, JETRO, MIC, National Diet Library, corporate disclo
 ### Contact
 **Lead Researcher**: 19D Veteran & OSINT Analyst  
 **Verification Standard**: Multi-AI cross-examination (Grok, Claude, Gemini) with primary source tethering  
-**Citation Format**: `Project Chrysanthemum: Japan-China AI Integration Analysis (2015-2025), [specific dataset], [date accessed]`
+**Citation Format**: `Project Chrysanthemum: Japan-China AI Integration Analysis (2015-2025), [19 December 2025]`
 
 ## 📞 Feedback
 
