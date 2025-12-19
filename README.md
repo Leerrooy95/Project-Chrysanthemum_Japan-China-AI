@@ -4,6 +4,8 @@ Between 2015 and 2025, Japan-China joint AI patents surged **700%**, Chinese nat
 
 **Key Finding**: The 2024-2025 capital surge ($579.5B in tracked investments) followed a five-year technical integration period (2019-2023) where foundational dependencies were established through patents, talent, and infrastructure positioning.
 
+**See Also**: 
+
 ---
 
 ## 📊 Quick Statistics
