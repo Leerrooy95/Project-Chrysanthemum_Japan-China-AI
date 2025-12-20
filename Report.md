@@ -629,7 +629,7 @@ When does market-driven cooperation become strategic dependency? This investigat
 ## Contact & Attribution
 
 **Citation Format:**
-> Project Chrysanthemum: The Quiet Integration - A Decade of Japan-China AI Convergence (2015-2025). Lead Researcher: 19D Veteran & OSINT Analyst. December 2025. Verified through [specific dataset/source].
+> Project Chrysanthemum: The Quiet Integration - A Decade of Japan-China AI Convergence (2015-2025). Lead Researcher: 19D Veteran & OSINT Analyst. December 2025. Verified through.
 
 **For Journalists:**
 - All claims independently verifiable (see VERIFICATION.md)
