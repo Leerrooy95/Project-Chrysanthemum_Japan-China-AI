@@ -255,7 +255,3 @@ The researcher maintains no financial interests in entities analyzed. This work 
 This research is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) to maximize accessibility for journalists, researchers, and policy analysts while maintaining attribution standards.
 
 Data sourcing and methodology may be freely adapted with proper citation. Commercial use requires attribution to "Project Chrysanthemum: Japan-China AI Integration Analysis."
-
----
-
-*"Like the chrysanthemum blooming in late autumn, some integrations endure even through geopolitical winter."*
