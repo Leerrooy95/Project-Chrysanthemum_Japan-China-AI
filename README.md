@@ -247,11 +247,3 @@ Please open an issue in this repository or contact directly through provided cha
 All data in this repository is derived from publicly accessible institutional sources. No classified information, proprietary data, or unauthorized disclosures are included. This investigation adheres to legal and ethical OSINT standards.
 
 The researcher maintains no financial interests in entities analyzed. This work is conducted independently to inform public discourse on technology policy and economic security.
-
----
-
-## 📜 License
-
-This research is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) to maximize accessibility for journalists, researchers, and policy analysts while maintaining attribution standards.
-
-Data sourcing and methodology may be freely adapted with proper citation. Commercial use requires attribution to "Project Chrysanthemum: Japan-China AI Integration Analysis."
